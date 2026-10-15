@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+*.pem
+*.key
+*.zip
+*.parquet
+sse50_*/
+reports/server*
+reports/**/stock_*.json
+reports/**/checkpoint_*.json
+reports/joint_quotes/pairs.csv
+reports/order_patterns/periodic_examples.csv
+reports/order_patterns/matched_strata.csv

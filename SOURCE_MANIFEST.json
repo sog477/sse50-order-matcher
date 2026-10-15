@@ -1,0 +1,38 @@
+{
+  "audit.py": {
+    "sha256": "00df747e2a6867c651814650b790351307be880b0660fcecec16f17037cf5d33",
+    "original_sha256": "00df747e2a6867c651814650b790351307be880b0660fcecec16f17037cf5d33"
+  },
+  "orderbook.py": {
+    "sha256": "0bc82aed0868b5dea39157c0134f4c0fd8811f37fc84f2e1e5ed5c0e55428901",
+    "original_sha256": "0bc82aed0868b5dea39157c0134f4c0fd8811f37fc84f2e1e5ed5c0e55428901"
+  },
+  "simulator.py": {
+    "sha256": "7ec2635f5bee751711306ec483e89c816a58564ecb57ec44edeed4a225e2bd6c",
+    "original_sha256": "7ec2635f5bee751711306ec483e89c816a58564ecb57ec44edeed4a225e2bd6c"
+  },
+  "test_orderbook.py": {
+    "sha256": "9f1d0942eae67be65458f2a6c4c246fdfcee540e8bde915a14344916ea74b7ee",
+    "original_sha256": "9f1d0942eae67be65458f2a6c4c246fdfcee540e8bde915a14344916ea74b7ee"
+  },
+  "test_simulator.py": {
+    "sha256": "c7e00fabfba8557b67444327be42f465520bc7471eaf955cb21d634ab7c96b84",
+    "original_sha256": "c7e00fabfba8557b67444327be42f465520bc7471eaf955cb21d634ab7c96b84"
+  },
+  "verify_auction.py": {
+    "sha256": "1720a50aae8d35df420101c90501c56f1a1655f3bc09bcdd1db74eecfacde07b",
+    "original_sha256": "1720a50aae8d35df420101c90501c56f1a1655f3bc09bcdd1db74eecfacde07b"
+  },
+  "webapp.py": {
+    "sha256": "11fa6badbabc6d12791d63a6363863c36b6b6713319eed985c86a9e4227241ac",
+    "original_sha256": "2c61557c70f23edb7625e0dcac68cec174ef69a46a31c30d3dece1fe8ee8ff04"
+  },
+  "start.ps1": {
+    "sha256": "c2db412ea3bcc09db22926439a7365e87a27d43fb092d570b3b4d624ee957443",
+    "original_sha256": "1b1584c047f28e6f5689b15dc5e69944cd843a37295659e6d40b8397b8b5274b"
+  },
+  "web/index.html": {
+    "sha256": "6043c6044a817ca1d86abc6d35260a7daa4a2d5d6eaa2b7b6651857cdab9f90f",
+    "original_sha256": "e6d24c2408474cb956b359571d2f042e9a548948fe25625aa2a93b02f4a881de"
+  }
+}

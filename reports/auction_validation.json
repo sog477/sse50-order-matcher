@@ -1,0 +1,908 @@
+{
+  "stocks": 50,
+  "opening_matches": 50,
+  "closing_matches": 50,
+  "method": "freeze historical book before first auction execution; matching consumes orders only; reference tape used only for subsequent comparison",
+  "stocks_results": [
+    {
+      "symbol": 600028,
+      "stage": "open",
+      "generated_volume": 1467210,
+      "reference_volume": 1467210,
+      "pair_price_volume_equal": true,
+      "generated_price": "5.29",
+      "generated_fills": 415
+    },
+    {
+      "symbol": 600028,
+      "stage": "close",
+      "generated_volume": 1107070,
+      "reference_volume": 1107070,
+      "pair_price_volume_equal": true,
+      "generated_price": "5.29",
+      "generated_fills": 260
+    },
+    {
+      "symbol": 600030,
+      "stage": "open",
+      "generated_volume": 278800,
+      "reference_volume": 278800,
+      "pair_price_volume_equal": true,
+      "generated_price": "26.90",
+      "generated_fills": 279
+    },
+    {
+      "symbol": 600030,
+      "stage": "close",
+      "generated_volume": 524100,
+      "reference_volume": 524100,
+      "pair_price_volume_equal": true,
+      "generated_price": "26.79",
+      "generated_fills": 704
+    },
+    {
+      "symbol": 600031,
+      "stage": "open",
+      "generated_volume": 196324,
+      "reference_volume": 196324,
+      "pair_price_volume_equal": true,
+      "generated_price": "17.72",
+      "generated_fills": 294
+    },
+    {
+      "symbol": 600031,
+      "stage": "close",
+      "generated_volume": 1011605,
+      "reference_volume": 1011605,
+      "pair_price_volume_equal": true,
+      "generated_price": "17.51",
+      "generated_fills": 948
+    },
+    {
+      "symbol": 600036,
+      "stage": "open",
+      "generated_volume": 256000,
+      "reference_volume": 256000,
+      "pair_price_volume_equal": true,
+      "generated_price": "40.83",
+      "generated_fills": 323
+    },
+    {
+      "symbol": 600036,
+      "stage": "close",
+      "generated_volume": 287400,
+      "reference_volume": 287400,
+      "pair_price_volume_equal": true,
+      "generated_price": "40.60",
+      "generated_fills": 358
+    },
+    {
+      "symbol": 600050,
+      "stage": "open",
+      "generated_volume": 217500,
+      "reference_volume": 217500,
+      "pair_price_volume_equal": true,
+      "generated_price": "4.21",
+      "generated_fills": 113
+    },
+    {
+      "symbol": 600050,
+      "stage": "close",
+      "generated_volume": 1078700,
+      "reference_volume": 1078700,
+      "pair_price_volume_equal": true,
+      "generated_price": "4.17",
+      "generated_fills": 329
+    },
+    {
+      "symbol": 600089,
+      "stage": "open",
+      "generated_volume": 71400,
+      "reference_volume": 71400,
+      "pair_price_volume_equal": true,
+      "generated_price": "18.21",
+      "generated_fills": 104
+    },
+    {
+      "symbol": 600089,
+      "stage": "close",
+      "generated_volume": 286700,
+      "reference_volume": 286700,
+      "pair_price_volume_equal": true,
+      "generated_price": "18.09",
+      "generated_fills": 306
+    },
+    {
+      "symbol": 600111,
+      "stage": "open",
+      "generated_volume": 103000,
+      "reference_volume": 103000,
+      "pair_price_volume_equal": true,
+      "generated_price": "37.90",
+      "generated_fills": 227
+    },
+    {
+      "symbol": 600111,
+      "stage": "close",
+      "generated_volume": 226370,
+      "reference_volume": 226370,
+      "pair_price_volume_equal": true,
+      "generated_price": "37.42",
+      "generated_fills": 547
+    },
+    {
+      "symbol": 600150,
+      "stage": "open",
+      "generated_volume": 271700,
+      "reference_volume": 271700,
+      "pair_price_volume_equal": true,
+      "generated_price": "40.04",
+      "generated_fills": 305
+    },
+    {
+      "symbol": 600150,
+      "stage": "close",
+      "generated_volume": 1408401,
+      "reference_volume": 1408401,
+      "pair_price_volume_equal": true,
+      "generated_price": "38.59",
+      "generated_fills": 1073
+    },
+    {
+      "symbol": 600183,
+      "stage": "open",
+      "generated_volume": 254763,
+      "reference_volume": 254763,
+      "pair_price_volume_equal": true,
+      "generated_price": "143.00",
+      "generated_fills": 958
+    },
+    {
+      "symbol": 600183,
+      "stage": "close",
+      "generated_volume": 449654,
+      "reference_volume": 449654,
+      "pair_price_volume_equal": true,
+      "generated_price": "143.56",
+      "generated_fills": 2152
+    },
+    {
+      "symbol": 600276,
+      "stage": "open",
+      "generated_volume": 127400,
+      "reference_volume": 127400,
+      "pair_price_volume_equal": true,
+      "generated_price": "45.59",
+      "generated_fills": 278
+    },
+    {
+      "symbol": 600276,
+      "stage": "close",
+      "generated_volume": 302500,
+      "reference_volume": 302500,
+      "pair_price_volume_equal": true,
+      "generated_price": "45.58",
+      "generated_fills": 476
+    },
+    {
+      "symbol": 600309,
+      "stage": "open",
+      "generated_volume": 74000,
+      "reference_volume": 74000,
+      "pair_price_volume_equal": true,
+      "generated_price": "70.66",
+      "generated_fills": 234
+    },
+    {
+      "symbol": 600309,
+      "stage": "close",
+      "generated_volume": 203400,
+      "reference_volume": 203400,
+      "pair_price_volume_equal": true,
+      "generated_price": "71.60",
+      "generated_fills": 485
+    },
+    {
+      "symbol": 600406,
+      "stage": "open",
+      "generated_volume": 112294,
+      "reference_volume": 112294,
+      "pair_price_volume_equal": true,
+      "generated_price": "22.25",
+      "generated_fills": 191
+    },
+    {
+      "symbol": 600406,
+      "stage": "close",
+      "generated_volume": 518863,
+      "reference_volume": 518863,
+      "pair_price_volume_equal": true,
+      "generated_price": "22.38",
+      "generated_fills": 471
+    },
+    {
+      "symbol": 600519,
+      "stage": "open",
+      "generated_volume": 6310,
+      "reference_volume": 6310,
+      "pair_price_volume_equal": true,
+      "generated_price": "1255.03",
+      "generated_fills": 64
+    },
+    {
+      "symbol": 600519,
+      "stage": "close",
+      "generated_volume": 42733,
+      "reference_volume": 42733,
+      "pair_price_volume_equal": true,
+      "generated_price": "1251.24",
+      "generated_fills": 211
+    },
+    {
+      "symbol": 600760,
+      "stage": "open",
+      "generated_volume": 102600,
+      "reference_volume": 102600,
+      "pair_price_volume_equal": true,
+      "generated_price": "44.71",
+      "generated_fills": 113
+    },
+    {
+      "symbol": 600760,
+      "stage": "close",
+      "generated_volume": 71500,
+      "reference_volume": 71500,
+      "pair_price_volume_equal": true,
+      "generated_price": "44.08",
+      "generated_fills": 241
+    },
+    {
+      "symbol": 600809,
+      "stage": "open",
+      "generated_volume": 12105,
+      "reference_volume": 12105,
+      "pair_price_volume_equal": true,
+      "generated_price": "112.97",
+      "generated_fills": 72
+    },
+    {
+      "symbol": 600809,
+      "stage": "close",
+      "generated_volume": 31500,
+      "reference_volume": 31500,
+      "pair_price_volume_equal": true,
+      "generated_price": "114.03",
+      "generated_fills": 156
+    },
+    {
+      "symbol": 600887,
+      "stage": "open",
+      "generated_volume": 143179,
+      "reference_volume": 143179,
+      "pair_price_volume_equal": true,
+      "generated_price": "26.77",
+      "generated_fills": 186
+    },
+    {
+      "symbol": 600887,
+      "stage": "close",
+      "generated_volume": 351519,
+      "reference_volume": 351519,
+      "pair_price_volume_equal": true,
+      "generated_price": "26.92",
+      "generated_fills": 363
+    },
+    {
+      "symbol": 600900,
+      "stage": "open",
+      "generated_volume": 276400,
+      "reference_volume": 276400,
+      "pair_price_volume_equal": true,
+      "generated_price": "28.01",
+      "generated_fills": 349
+    },
+    {
+      "symbol": 600900,
+      "stage": "close",
+      "generated_volume": 1116076,
+      "reference_volume": 1116076,
+      "pair_price_volume_equal": true,
+      "generated_price": "28.08",
+      "generated_fills": 640
+    },
+    {
+      "symbol": 600930,
+      "stage": "open",
+      "generated_volume": 301700,
+      "reference_volume": 301700,
+      "pair_price_volume_equal": true,
+      "generated_price": "3.94",
+      "generated_fills": 98
+    },
+    {
+      "symbol": 600930,
+      "stage": "close",
+      "generated_volume": 1048500,
+      "reference_volume": 1048500,
+      "pair_price_volume_equal": true,
+      "generated_price": "3.90",
+      "generated_fills": 364
+    },
+    {
+      "symbol": 601012,
+      "stage": "open",
+      "generated_volume": 162800,
+      "reference_volume": 162800,
+      "pair_price_volume_equal": true,
+      "generated_price": "11.38",
+      "generated_fills": 160
+    },
+    {
+      "symbol": 601012,
+      "stage": "close",
+      "generated_volume": 761397,
+      "reference_volume": 761397,
+      "pair_price_volume_equal": true,
+      "generated_price": "11.41",
+      "generated_fills": 447
+    },
+    {
+      "symbol": 601088,
+      "stage": "open",
+      "generated_volume": 87300,
+      "reference_volume": 87300,
+      "pair_price_volume_equal": true,
+      "generated_price": "47.51",
+      "generated_fills": 199
+    },
+    {
+      "symbol": 601088,
+      "stage": "close",
+      "generated_volume": 116300,
+      "reference_volume": 116300,
+      "pair_price_volume_equal": true,
+      "generated_price": "47.21",
+      "generated_fills": 292
+    },
+    {
+      "symbol": 601127,
+      "stage": "open",
+      "generated_volume": 89300,
+      "reference_volume": 89300,
+      "pair_price_volume_equal": true,
+      "generated_price": "47.80",
+      "generated_fills": 177
+    },
+    {
+      "symbol": 601127,
+      "stage": "close",
+      "generated_volume": 286701,
+      "reference_volume": 286701,
+      "pair_price_volume_equal": true,
+      "generated_price": "47.20",
+      "generated_fills": 556
+    },
+    {
+      "symbol": 601166,
+      "stage": "open",
+      "generated_volume": 453600,
+      "reference_volume": 453600,
+      "pair_price_volume_equal": true,
+      "generated_price": "17.85",
+      "generated_fills": 233
+    },
+    {
+      "symbol": 601166,
+      "stage": "close",
+      "generated_volume": 689800,
+      "reference_volume": 689800,
+      "pair_price_volume_equal": true,
+      "generated_price": "17.87",
+      "generated_fills": 451
+    },
+    {
+      "symbol": 601211,
+      "stage": "open",
+      "generated_volume": 91300,
+      "reference_volume": 91300,
+      "pair_price_volume_equal": true,
+      "generated_price": "17.68",
+      "generated_fills": 95
+    },
+    {
+      "symbol": 601211,
+      "stage": "close",
+      "generated_volume": 598300,
+      "reference_volume": 598300,
+      "pair_price_volume_equal": true,
+      "generated_price": "17.67",
+      "generated_fills": 277
+    },
+    {
+      "symbol": 601288,
+      "stage": "open",
+      "generated_volume": 1147100,
+      "reference_volume": 1147100,
+      "pair_price_volume_equal": true,
+      "generated_price": "6.87",
+      "generated_fills": 340
+    },
+    {
+      "symbol": 601288,
+      "stage": "close",
+      "generated_volume": 3703490,
+      "reference_volume": 3703490,
+      "pair_price_volume_equal": true,
+      "generated_price": "6.83",
+      "generated_fills": 627
+    },
+    {
+      "symbol": 601318,
+      "stage": "open",
+      "generated_volume": 322300,
+      "reference_volume": 322300,
+      "pair_price_volume_equal": true,
+      "generated_price": "54.35",
+      "generated_fills": 436
+    },
+    {
+      "symbol": 601318,
+      "stage": "close",
+      "generated_volume": 762129,
+      "reference_volume": 762129,
+      "pair_price_volume_equal": true,
+      "generated_price": "53.87",
+      "generated_fills": 908
+    },
+    {
+      "symbol": 601328,
+      "stage": "open",
+      "generated_volume": 644200,
+      "reference_volume": 644200,
+      "pair_price_volume_equal": true,
+      "generated_price": "7.55",
+      "generated_fills": 215
+    },
+    {
+      "symbol": 601328,
+      "stage": "close",
+      "generated_volume": 950930,
+      "reference_volume": 950930,
+      "pair_price_volume_equal": true,
+      "generated_price": "7.52",
+      "generated_fills": 230
+    },
+    {
+      "symbol": 601398,
+      "stage": "open",
+      "generated_volume": 1012200,
+      "reference_volume": 1012200,
+      "pair_price_volume_equal": true,
+      "generated_price": "8.09",
+      "generated_fills": 320
+    },
+    {
+      "symbol": 601398,
+      "stage": "close",
+      "generated_volume": 1955300,
+      "reference_volume": 1955300,
+      "pair_price_volume_equal": true,
+      "generated_price": "8.09",
+      "generated_fills": 322
+    },
+    {
+      "symbol": 601600,
+      "stage": "open",
+      "generated_volume": 422000,
+      "reference_volume": 422000,
+      "pair_price_volume_equal": true,
+      "generated_price": "9.27",
+      "generated_fills": 255
+    },
+    {
+      "symbol": 601600,
+      "stage": "close",
+      "generated_volume": 869089,
+      "reference_volume": 869089,
+      "pair_price_volume_equal": true,
+      "generated_price": "9.12",
+      "generated_fills": 479
+    },
+    {
+      "symbol": 601601,
+      "stage": "open",
+      "generated_volume": 228300,
+      "reference_volume": 228300,
+      "pair_price_volume_equal": true,
+      "generated_price": "32.08",
+      "generated_fills": 154
+    },
+    {
+      "symbol": 601601,
+      "stage": "close",
+      "generated_volume": 273800,
+      "reference_volume": 273800,
+      "pair_price_volume_equal": true,
+      "generated_price": "31.61",
+      "generated_fills": 414
+    },
+    {
+      "symbol": 601628,
+      "stage": "open",
+      "generated_volume": 77900,
+      "reference_volume": 77900,
+      "pair_price_volume_equal": true,
+      "generated_price": "38.64",
+      "generated_fills": 138
+    },
+    {
+      "symbol": 601628,
+      "stage": "close",
+      "generated_volume": 204200,
+      "reference_volume": 204200,
+      "pair_price_volume_equal": true,
+      "generated_price": "38.60",
+      "generated_fills": 246
+    },
+    {
+      "symbol": 601658,
+      "stage": "open",
+      "generated_volume": 397500,
+      "reference_volume": 397500,
+      "pair_price_volume_equal": true,
+      "generated_price": "5.32",
+      "generated_fills": 115
+    },
+    {
+      "symbol": 601658,
+      "stage": "close",
+      "generated_volume": 1235100,
+      "reference_volume": 1235100,
+      "pair_price_volume_equal": true,
+      "generated_price": "5.32",
+      "generated_fills": 321
+    },
+    {
+      "symbol": 601668,
+      "stage": "open",
+      "generated_volume": 202900,
+      "reference_volume": 202900,
+      "pair_price_volume_equal": true,
+      "generated_price": "4.30",
+      "generated_fills": 91
+    },
+    {
+      "symbol": 601668,
+      "stage": "close",
+      "generated_volume": 1942500,
+      "reference_volume": 1942500,
+      "pair_price_volume_equal": true,
+      "generated_price": "4.28",
+      "generated_fills": 329
+    },
+    {
+      "symbol": 601688,
+      "stage": "open",
+      "generated_volume": 141100,
+      "reference_volume": 141100,
+      "pair_price_volume_equal": true,
+      "generated_price": "18.48",
+      "generated_fills": 136
+    },
+    {
+      "symbol": 601688,
+      "stage": "close",
+      "generated_volume": 296400,
+      "reference_volume": 296400,
+      "pair_price_volume_equal": true,
+      "generated_price": "18.35",
+      "generated_fills": 284
+    },
+    {
+      "symbol": 601728,
+      "stage": "open",
+      "generated_volume": 132100,
+      "reference_volume": 132100,
+      "pair_price_volume_equal": true,
+      "generated_price": "6.12",
+      "generated_fills": 137
+    },
+    {
+      "symbol": 601728,
+      "stage": "close",
+      "generated_volume": 566800,
+      "reference_volume": 566800,
+      "pair_price_volume_equal": true,
+      "generated_price": "6.10",
+      "generated_fills": 178
+    },
+    {
+      "symbol": 601857,
+      "stage": "open",
+      "generated_volume": 1390094,
+      "reference_volume": 1390094,
+      "pair_price_volume_equal": true,
+      "generated_price": "10.80",
+      "generated_fills": 349
+    },
+    {
+      "symbol": 601857,
+      "stage": "close",
+      "generated_volume": 888500,
+      "reference_volume": 888500,
+      "pair_price_volume_equal": true,
+      "generated_price": "10.71",
+      "generated_fills": 391
+    },
+    {
+      "symbol": 601888,
+      "stage": "open",
+      "generated_volume": 60000,
+      "reference_volume": 60000,
+      "pair_price_volume_equal": true,
+      "generated_price": "52.12",
+      "generated_fills": 140
+    },
+    {
+      "symbol": 601888,
+      "stage": "close",
+      "generated_volume": 149600,
+      "reference_volume": 149600,
+      "pair_price_volume_equal": true,
+      "generated_price": "52.19",
+      "generated_fills": 288
+    },
+    {
+      "symbol": 601899,
+      "stage": "open",
+      "generated_volume": 1528169,
+      "reference_volume": 1528169,
+      "pair_price_volume_equal": true,
+      "generated_price": "31.65",
+      "generated_fills": 882
+    },
+    {
+      "symbol": 601899,
+      "stage": "close",
+      "generated_volume": 811101,
+      "reference_volume": 811101,
+      "pair_price_volume_equal": true,
+      "generated_price": "31.41",
+      "generated_fills": 974
+    },
+    {
+      "symbol": 601919,
+      "stage": "open",
+      "generated_volume": 259400,
+      "reference_volume": 259400,
+      "pair_price_volume_equal": true,
+      "generated_price": "16.50",
+      "generated_fills": 186
+    },
+    {
+      "symbol": 601919,
+      "stage": "close",
+      "generated_volume": 261900,
+      "reference_volume": 261900,
+      "pair_price_volume_equal": true,
+      "generated_price": "16.36",
+      "generated_fills": 201
+    },
+    {
+      "symbol": 601988,
+      "stage": "open",
+      "generated_volume": 1574400,
+      "reference_volume": 1574400,
+      "pair_price_volume_equal": true,
+      "generated_price": "6.62",
+      "generated_fills": 304
+    },
+    {
+      "symbol": 601988,
+      "stage": "close",
+      "generated_volume": 1842000,
+      "reference_volume": 1842000,
+      "pair_price_volume_equal": true,
+      "generated_price": "6.58",
+      "generated_fills": 281
+    },
+    {
+      "symbol": 603019,
+      "stage": "open",
+      "generated_volume": 99100,
+      "reference_volume": 99100,
+      "pair_price_volume_equal": true,
+      "generated_price": "84.36",
+      "generated_fills": 285
+    },
+    {
+      "symbol": 603019,
+      "stage": "close",
+      "generated_volume": 156100,
+      "reference_volume": 156100,
+      "pair_price_volume_equal": true,
+      "generated_price": "83.50",
+      "generated_fills": 541
+    },
+    {
+      "symbol": 603259,
+      "stage": "open",
+      "generated_volume": 133425,
+      "reference_volume": 133425,
+      "pair_price_volume_equal": true,
+      "generated_price": "167.18",
+      "generated_fills": 384
+    },
+    {
+      "symbol": 603259,
+      "stage": "close",
+      "generated_volume": 364800,
+      "reference_volume": 364800,
+      "pair_price_volume_equal": true,
+      "generated_price": "167.95",
+      "generated_fills": 641
+    },
+    {
+      "symbol": 603501,
+      "stage": "open",
+      "generated_volume": 35200,
+      "reference_volume": 35200,
+      "pair_price_volume_equal": true,
+      "generated_price": "82.89",
+      "generated_fills": 142
+    },
+    {
+      "symbol": 603501,
+      "stage": "close",
+      "generated_volume": 155394,
+      "reference_volume": 155394,
+      "pair_price_volume_equal": true,
+      "generated_price": "82.77",
+      "generated_fills": 301
+    },
+    {
+      "symbol": 603986,
+      "stage": "open",
+      "generated_volume": 295900,
+      "reference_volume": 295900,
+      "pair_price_volume_equal": true,
+      "generated_price": "406.30",
+      "generated_fills": 1240
+    },
+    {
+      "symbol": 603986,
+      "stage": "close",
+      "generated_volume": 215300,
+      "reference_volume": 215300,
+      "pair_price_volume_equal": true,
+      "generated_price": "398.72",
+      "generated_fills": 1217
+    },
+    {
+      "symbol": 603993,
+      "stage": "open",
+      "generated_volume": 1664100,
+      "reference_volume": 1664100,
+      "pair_price_volume_equal": true,
+      "generated_price": "18.00",
+      "generated_fills": 930
+    },
+    {
+      "symbol": 603993,
+      "stage": "close",
+      "generated_volume": 1113600,
+      "reference_volume": 1113600,
+      "pair_price_volume_equal": true,
+      "generated_price": "17.66",
+      "generated_fills": 879
+    },
+    {
+      "symbol": 688008,
+      "stage": "open",
+      "generated_volume": 504361,
+      "reference_volume": 504361,
+      "pair_price_volume_equal": true,
+      "generated_price": "225.50",
+      "generated_fills": 961
+    },
+    {
+      "symbol": 688008,
+      "stage": "close",
+      "generated_volume": 245740,
+      "reference_volume": 245740,
+      "pair_price_volume_equal": true,
+      "generated_price": "223.37",
+      "generated_fills": 644
+    },
+    {
+      "symbol": 688012,
+      "stage": "open",
+      "generated_volume": 64254,
+      "reference_volume": 64254,
+      "pair_price_volume_equal": true,
+      "generated_price": "350.23",
+      "generated_fills": 281
+    },
+    {
+      "symbol": 688012,
+      "stage": "close",
+      "generated_volume": 98687,
+      "reference_volume": 98687,
+      "pair_price_volume_equal": true,
+      "generated_price": "349.35",
+      "generated_fills": 250
+    },
+    {
+      "symbol": 688041,
+      "stage": "open",
+      "generated_volume": 133158,
+      "reference_volume": 133158,
+      "pair_price_volume_equal": true,
+      "generated_price": "258.50",
+      "generated_fills": 285
+    },
+    {
+      "symbol": 688041,
+      "stage": "close",
+      "generated_volume": 113228,
+      "reference_volume": 113228,
+      "pair_price_volume_equal": true,
+      "generated_price": "251.66",
+      "generated_fills": 407
+    },
+    {
+      "symbol": 688111,
+      "stage": "open",
+      "generated_volume": 50201,
+      "reference_volume": 50201,
+      "pair_price_volume_equal": true,
+      "generated_price": "229.01",
+      "generated_fills": 166
+    },
+    {
+      "symbol": 688111,
+      "stage": "close",
+      "generated_volume": 45286,
+      "reference_volume": 45286,
+      "pair_price_volume_equal": true,
+      "generated_price": "226.60",
+      "generated_fills": 218
+    },
+    {
+      "symbol": 688256,
+      "stage": "open",
+      "generated_volume": 16792,
+      "reference_volume": 16792,
+      "pair_price_volume_equal": true,
+      "generated_price": "1121.00",
+      "generated_fills": 101
+    },
+    {
+      "symbol": 688256,
+      "stage": "close",
+      "generated_volume": 38915,
+      "reference_volume": 38915,
+      "pair_price_volume_equal": true,
+      "generated_price": "1103.08",
+      "generated_fills": 236
+    },
+    {
+      "symbol": 688981,
+      "stage": "open",
+      "generated_volume": 96754,
+      "reference_volume": 96754,
+      "pair_price_volume_equal": true,
+      "generated_price": "122.40",
+      "generated_fills": 176
+    },
+    {
+      "symbol": 688981,
+      "stage": "close",
+      "generated_volume": 132535,
+      "reference_volume": 132535,
+      "pair_price_volume_equal": true,
+      "generated_price": "121.39",
+      "generated_fills": 337
+    }
+  ]
+}
